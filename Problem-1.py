@@ -21,7 +21,7 @@ class Calculator:   #Class creation
 #inputs
 a = float(input("Enter the value of a: "))
 b = float(input("Enter the value of b: "))
-op = input("Enter the type of operator (+, -, *, /): ")
+operator = input("Enter the type of operator (+, -, *, /): ")
 
 # Instance creation
 calculator = Calculator(a, b)
@@ -39,4 +39,4 @@ else:
     result = "Error: Invalid operator"
 
 #Result Display
-print("Result:",result)
+print("Result:",round(result,6))
