@@ -13,14 +13,14 @@ Problem 1
 
 Problem 2
 #Input a 
-# x value intilization
-# For Loop
+#x value intilization
+#For Loop
 #Display result
 
 Problem 3
 #Input a
 #Empty List as l
-# Initilaze Count to -1
+#Initilaze Count to -1
 #if case for a%2==0 if yes a-=1
 #For loop
 #Count+=2 and append it to list l
